@@ -22,4 +22,4 @@ IO.println(x);
 ~}
 ```
 
-This property was used in the previous example for the `%` operator, but I think it worth calling attention to even if it is "intuitive".
+This property was used in the previous example for the `%` operator, but I think it is worth calling attention to even if it is "intuitive".
